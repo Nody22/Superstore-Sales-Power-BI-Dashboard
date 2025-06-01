@@ -55,8 +55,6 @@ Power BI – interactive dashboards and reports
 
 GitHub – version control & project portfolio
 
-LinkedIn – report sharing
-
 📊 Power BI Dashboard
 The Power BI file: Superstore_Sales_Report.pbix
 
@@ -86,34 +84,6 @@ SQLQuery_TablesCreation_SSMS_And_Ingestion.sql	SQL schema creation & data load
 SQLQuery_Analysis_Queries.sql	Advanced SQL queries (KPIs, insights)
 Superstores Sales - Script Python.ipynb	Python cleaning & pre-ingestion
 
-🚀 How to Run
-Set up SQL Server and import the cleaned CSV into test_superstore
-
-Run all SQL scripts to generate normalized tables
-
-Open Power BI and connect to the local SQL Server instance
-
-Load dimension & fact tables, and use DAX to build KPIs
-
-Customize visuals or publish to Power BI service
-
-💡 Insights Available
-📦 Top-selling and underperforming products
-
-🧑‍🤝‍🧑 Customer segments generating most profit
-
-🕐 Monthly revenue trends
-
-📍 Geographic distribution of sales
-
-🧮 Dynamic profit margin indicators
-
-🔗 Sharing the Report
-LinkedIn: Export dashboard as PNG or MP4, or write an article explaining the logic and value
-
-GitHub Pages: Upload .pbix and screenshots with this README
-
-Power BI Publish: You’ll need a Pro or EDU/Organization account for “Publish to Web” feature
 
 📬 Contact
 Nordine Bouchelia
